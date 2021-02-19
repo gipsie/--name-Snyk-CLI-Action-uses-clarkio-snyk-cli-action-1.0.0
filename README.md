@@ -1,1 +1,0 @@
-# --name-Snyk-CLI-Action-uses-clarkio-snyk-cli-action-1.0.0
